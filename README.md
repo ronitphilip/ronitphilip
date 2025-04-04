@@ -28,8 +28,8 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img height='200px' src="https://github-readme-stats.vercel.app/api?username=ronitphilip&show_icons=true&theme=tokyonight" alt="ronitphilip" />
-  <img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitphilip&layout=compact&theme=tokyonight" />
+  <img height='150px' src="https://github-readme-stats.vercel.app/api?username=ronitphilip&show_icons=true&theme=tokyonight" alt="ronitphilip" />
+  <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitphilip&layout=compact&theme=tokyonight" />
 </p>
 
 ---
